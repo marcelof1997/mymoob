@@ -5,7 +5,6 @@ anyio==3.7.0
 astroid==2.8.0
 async-timeout==4.0.2
 attrs==23.1.0
-audiostream==0.2
 certifi==2023.5.7
 cffi==1.15.1
 charset-normalizer==3.1.0
